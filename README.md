@@ -1,8 +1,8 @@
-\# UAE Real Estate Analysis
+# UAE Real Estate Analysis
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,11 +14,11 @@ The analysis focuses on understanding how property size, location, furnishing st
 
 
 
-\---
+---
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -26,97 +26,81 @@ The dataset contains UAE real estate listings including:
 
 
 
-\- Property price
+- Property price
 
-\- Property size
+- Property size
 
-\- Furnishing status
+- Furnishing status
 
-\- Number of bedrooms
+- Number of bedrooms
 
-\- Number of bathrooms
+- Number of bathrooms
 
-\- Property location
-
-
-
-\---
+- Property location
 
 
 
-\## Tools \& Technologies
+---
 
 
 
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook / Google Colab
+## Tools \& Technologies
 
 
 
-\---
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
+
+- Jupyter Notebook / Google Colab
 
 
 
-\## Project Workflow
+---
 
 
 
-1\. Data Loading
-
-2\. Data Inspection
-
-3\. Data Cleaning
-
-4\. Exploratory Data Analysis (EDA)
-
-5\. Visualization
-
-6\. Insight Extraction
+## Project Workflow
 
 
 
-\---
+1. Data Loading
+
+2. Data Inspection
+
+3. Data Cleaning
+
+4. Exploratory Data Analysis (EDA)
+
+5. Visualization
+
+6. Insight Extraction
 
 
 
-\## Key Findings
+---
 
 
 
-\- Property size shows a positive relationship with price.
-
-\- Certain locations have significantly higher average property prices.
-
-\- Furnished properties tend to be priced differently than unfurnished properties.
-
-\- Bedrooms and bathrooms contribute to overall property valuation.
-
-\- Premium districts dominate the highest-priced listings.
+## Key Findings
 
 
 
-\---
+- Property size shows a positive relationship with price.
 
+- Certain locations have significantly higher average property prices.
 
+- Furnished properties tend to be priced differently than unfurnished properties.
 
-\## Visualizations
+- Bedrooms and bathrooms contribute to overall property valuation.
 
-
-
-\### Top Locations by Average Property Price
-
-
-
-!\[Location Analysis](images/location\_analysis.png)
+- Premium districts dominate the highest-priced listings.
 
 
 
@@ -124,23 +108,15 @@ The dataset contains UAE real estate listings including:
 
 
 
-\### Property Size vs Price
+## Visualizations
 
 
 
-!\[Size vs Price](images/size\_vs\_price.png)
+### Top Locations by Average Property Price
 
 
 
-\---
-
-
-
-\### Bedrooms and Bathrooms Impact on Price
-
-
-
-!\[Bedrooms and Bathrooms](images/bedrooms\_bathrooms\_price.png)
+![Location Analysis](images/location\_analysis.png)
 
 
 
@@ -148,19 +124,43 @@ The dataset contains UAE real estate listings including:
 
 
 
-\### Furnishing Distribution
+### Property Size vs Price
 
 
 
-!\[Furnishing Distribution](images/furnishing\_distribution.png)
+![Size vs Price](images/size\_vs\_price.png)
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+### Bedrooms and Bathrooms Impact on Price
+
+
+
+![Bedrooms and Bathrooms](images/bedrooms\_bathrooms\_price.png)
+
+
+
+---
+
+
+
+### Furnishing Distribution
+
+
+
+![Furnishing Distribution](images/furnishing\_distribution.png)
+
+
+
+---
+
+
+
+## Project Structure
 
 
 
@@ -204,7 +204,7 @@ UAE-Real-Estate-Analysis/
 
 
 
-\---
+---
 
 
 
